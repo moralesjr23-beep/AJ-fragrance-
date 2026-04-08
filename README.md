@@ -1,5 +1,4 @@
 # AJ-fragrance-
-AJ fragrance 
 import { useState, useEffect } from “react”;
 
 const COLL=[
